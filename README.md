@@ -11,7 +11,7 @@ Shreya Sinha (ss6415)
 Saumya Pandey.(sp4011)
 
 # Contribution Statement:
-All members contributed equally for code implementation. Shreya gave the presentation, Kartik created presentatation slides and Saumya organized team meetings and managed GitHub repo.
+All members contributed equally for researching topics and implementing code. Shreya gave the presentation, Kartik created presentatation slides and Saumya organized team meetings and managed GitHub repo.
 
 # Files:
 1. Report- ADS_Proj5_Lane_Segmentation.ipynb - Colaboratory.pdf
