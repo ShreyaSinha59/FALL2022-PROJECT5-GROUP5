@@ -12,7 +12,7 @@ Saumya Pandey.(sp4011)
 
 # Files:
 1. Report- ADS_Proj5_Lane_Segmentation.ipynb - Colaboratory.pdf
-2. Main ipynb file- 
+2. Main ipynb file- ADS_Proj5_Lane_Segmentation.ipynb
 
 
 
